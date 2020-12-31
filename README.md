@@ -1,3 +1,10 @@
+## About this repository
+
+This repository contains the assignment and files belonging to the first Course Project of the course ["Reproducible Research"](https://www.coursera.org/learn/reproducible-research/lecture/cRnt1/communicating-results) on Coursera. I started this course in December 2020 as the last course of the Specialization ["Data Science: Foundations using R Specialization"](https://www.coursera.org/specializations/data-science-foundations-r).
+
+Below, you will find the original assignment. The R code that was used to make the assignment can be found in the file "PA1_template.Rmd".
+
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
